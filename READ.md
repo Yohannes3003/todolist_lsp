@@ -30,4 +30,4 @@ todo-app/
 
 ## Kontributor
 
-Yohannes Rahul Rafael()
+Yohannes Rahul Rafael(https://github.com/Yohannes3003)
