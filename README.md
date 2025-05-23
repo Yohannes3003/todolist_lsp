@@ -16,13 +16,14 @@ Aplikasi To-Do List berbasis PHP sederhana yang memungkinkan pengguna menambahka
 
 ## Struktur Folder
 
-'''
+```
 todo-app/
 ├── screenshot # Bukti screenshot hasil pengerjaan
 ├── index.php # Halaman utama
 ├── functions.php # Fungsi-fungsi utama seperti tambah, hapus, edit, toggle, format
 ├── README.md # Dokumentasi ini
-'''
+
+```
 
 ## Cara Menjalankan
 
